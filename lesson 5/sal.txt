@@ -1,0 +1,10 @@
+ivanov 23543.12
+petrov 13749.32
+tihonov 27545.24
+Putin 99999.99
+Medvedev 15000.25
+trump 2700.50
+obama 5487.74
+Biden 1899.80
+Elcin 21000.55
+Gagarin 37120.45
